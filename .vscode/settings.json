@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".vscode": true,
+    ".editorconfig": true,
+    ".eslintrc.js": true,
+    ".gitignore": true,
+    ".prettierrc": true,
+    "package.json": true,
+    "README.md": true,
+    "yarn-error.log": true,
+    "yarn.lock": true,
+  }
+}
